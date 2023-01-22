@@ -1,5 +1,7 @@
-### Hi there 👋
+ Hi there 👋
 
-This is my first website which has my poem called "A Politicians' Confession".
+My name is Kevin Kiprono Koech. 
 
-Click this link https://loquacious-tanuki-4140f5.netlify.app/ to view it online.
+Currently I'm enrolled in ALX SE Program cohort 12.
+
+I'm interested in being a Full Stack Software Engineer in 6 months.
