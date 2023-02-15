@@ -9,3 +9,5 @@ I'm interested in being a Full Stack Software Engineer in 6 months.
 [![Kevin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kevinkoech357&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kevinkoech357/github-readme-stats#gh-dark-mode-only)
 
 [![Kevin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kevinkoech357&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kevinkoech357/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&layout=compact)](https://github.com/kevinkoech357/github-readme-stats)
