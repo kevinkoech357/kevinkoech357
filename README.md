@@ -8,7 +8,7 @@ I'm currently pursuing a software engineering program at Alx Africa, where I stu
 
 * 🌍  I'm based in Nakuru, Kenya.
 * 🖥️  See my portfolio at [Github](http://github.com/kevinkoech357)
-* ✉️  You can contact me at [kevinkoech@proton.me]](mailto:kevinkoech@proton.me)
+* ✉️  You can contact me at [kevinkoech@proton.me](mailto:kevinkoech@proton.me)
 * 🚀  I'm currently working towards being a backend developer.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm a poet, a stoic and a wannabe philosopher.
