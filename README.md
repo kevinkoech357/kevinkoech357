@@ -1,46 +1,49 @@
-Hi 👋 My name is Kevin Koech
-=============================
 
-Software Engineering Student
-----------------------------
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/kevin-koech-834189263/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kevinkoech357&style=flat-square&color=blue" alt=""></p>
 
-I'm currently pursuing a software engineering program at Alx Africa, where I study a range of programming languages, including C, Python and JavaScript. My primary focus is to establish a solid foundation in these programming languages and enhance my proficiency in software development. As part of my studies, I am learning to write efficient code, design and implement algorithms, and develop applications and software systems. My ultimate objective is to become a skilled and competent software engineer capable of delivering innovative solutions to intricate problems.
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-* 🌍  I'm based in Nakuru, Kenya.
-* 🖥️  See my portfolio at [Github](http://github.com/kevinkoech357)
-* ✉️  You can contact me at [kevinkoech@proton.me](mailto:kevinkoech@proton.me)
-* 🚀  I'm currently working towards being a backend developer.
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I'm a poet, a stoic and a wannabe philosopher.
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<a href="https://www.github.com/kevinkoech357" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kevinkoech357?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/KevinKoech357" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KevinKoech357?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### :man_technologist: &nbsp;About Me :
 
-### Skills
+I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
+- 🔭 I’m learning at ALx Africa and will specialize in backend development.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on HackerRank, write poetry and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kevinkoech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-koech-834189263)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;          
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+                    
 </p>
 
+---
 
-### Socials
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinkoech357&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://discord.com/users/Kevin Koech#4274" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kevinkoech357" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KevinKoech357" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kevinkoech357"><img src="https://github-readme-stats.vercel.app/api?username=kevinkoech357&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kevin's GitHub stats" /></a>
-
-<a href="http://www.github.com/kevinkoech357"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkoech357&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/kevinkoech357" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
