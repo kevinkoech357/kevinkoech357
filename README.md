@@ -6,11 +6,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
-I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Software Engineering Student.
 
-- 🔭 I’m learning at ALx Africa and will specialize in backend development.
+- 🔭 I specialize in backend development..
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on HackerRank, write poetry and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kevinkoech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-koech-834189263)
