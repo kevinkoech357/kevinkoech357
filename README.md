@@ -2,7 +2,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kevinkoech357&style=flat-square&color=blue" alt="Profile Views"></p>
 
 ## About Me
-I am a dedicated Software Engineering Student with a passion for backend development. Currently honing my skills in technical content writing, I thrive on solving challenges on HackerRank and engaging in creative pursuits like poetry. Constantly exploring the ever-evolving tech landscape through extensive reading.
+Driven by a passion for backend development and a commitment to continuous learning, I am currently refining my skills through the rigorous ALX-AFRICA program and actively contributing to the tech community through insightful technical content writing. My insatiable curiosity and problem-solving drive fuel my engagement on platforms like HackerRank, where I relish tackling complex challenges and honing my technical prowess. Beyond the realm of code, I find creative expression and intellectual stimulation in the art of poetry. My dedication to lifelong learning is further evident in my extensive reading habits, which keep me at the forefront of the ever-evolving technological landscape.
+
+
 
 Reach me on:
 - [LinkedIn](https://www.linkedin.com/in/kevin-koech-834189263)
