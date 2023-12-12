@@ -6,7 +6,6 @@ I am a dedicated Software Engineering Student with a passion for backend develop
 
 Reach me on:
 - [LinkedIn](https://www.linkedin.com/in/kevin-koech-834189263)
-- [ProtonMail](kevinkoech@proton.me)
 - [Twitter](https://www.twitter.com/kevinkoech357)
   
 ---
