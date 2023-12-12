@@ -1,11 +1,14 @@
-# Welcome to My GitHub Profile 👋
+# Hey There, 👋
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kevinkoech357&style=flat-square&color=blue" alt="Profile Views"></p>
 
 ## About Me
 I am a dedicated Software Engineering Student with a passion for backend development. Currently honing my skills in technical content writing, I thrive on solving challenges on HackerRank and engaging in creative pursuits like poetry. Constantly exploring the ever-evolving tech landscape through extensive reading.
 
-📧 Reach me on [LinkedIn](https://www.linkedin.com/in/kevin-koech-834189263)
-
+Reach me on:
+- [LinkedIn](https://www.linkedin.com/in/kevin-koech-834189263)
+- [ProtonMail](kevinkoech@proton.me)
+- [Twitter](https://www.twitter.com/kevinkoech357
+  
 ---
 
 ## Languages and Tools
