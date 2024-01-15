@@ -1,9 +1,11 @@
-# Hey There, 👋
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kevinkoech357&style=flat-square&color=blue" alt="Profile Views"></p>
 
 ## About Me
-Driven by a passion for backend development and a commitment to continuous learning, I am currently refining my skills through the rigorous ALX-AFRICA program and actively contributing to the tech community through insightful technical content writing. My insatiable curiosity and problem-solving drive fuel my engagement on platforms like HackerRank, where I relish tackling complex challenges and honing my technical prowess. Beyond the realm of code, I find creative expression and intellectual stimulation in the art of poetry. My dedication to lifelong learning is further evident in my extensive reading habits, which keep me at the forefront of the ever-evolving technological landscape.
+Hi, my name is Kevin Koech. As a software engineer with 1+ year of experience, I excel in building innovative and robust systems majorly using languages like Python and JavaScript. My hands-on approach, honed through remote internships and personal projects, has instilled in me a deep understanding of the development lifecycle and a passion for continuous learning.
 
+In collaborative environments, I thrive. My expertise in communication, teamwork, and problem-solving has been instrumental in driving successful project outcomes. I actively engage with the programming community, gleaning insights from experienced professionals and staying current with industry trends, which I then leverage to bring a fresh perspective to every project.
+
+I'm eager to contribute my comprehensive skillset to impactful projects within a team of like-minded individuals. If you're looking for a dedicated engineer with a passion for collaboration and innovation, I'd be happy to discuss potential opportunities and share more about my specific experiences.
 
 
 Reach me on:
