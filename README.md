@@ -64,9 +64,5 @@ I thrive on turning complex problems into elegant solutions and am constantly ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinkoech357&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
